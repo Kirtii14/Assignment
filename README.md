@@ -5,6 +5,10 @@ It features two main widgets with interactive elements.
 
 ---
 
+
+<img width="1920" height="1080" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/546e6f18-d0e5-4388-813f-9eeec67c13dd" />
+
+
 ##  Features
 
 * **Info Box:** Displays text content with animated tabs — *About Me*, *Experiences*, and *Recommended*.
