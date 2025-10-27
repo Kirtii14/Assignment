@@ -51,8 +51,8 @@ npm install
 ```bash
 npm start
 ```
-
-Then open your browser and navigate to:
+or 
+Open your browser and navigate to:
 
 👉 [https://kirtiassignment.netlify.app/](https://kirtiassignment.netlify.app/)
 
