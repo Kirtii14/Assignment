@@ -50,7 +50,7 @@ npm start
 
 Then open your browser and navigate to:
 
-👉 [https://kirtiassignment.netlify.app/](https://kirtiassignment.netlify.app/)]
+👉 [https://kirtiassignment.netlify.app/](https://kirtiassignment.netlify.app/)
 
 ---
 
