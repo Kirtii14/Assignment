@@ -50,7 +50,7 @@ npm start
 
 Then open your browser and navigate to:
 
-👉 [http://localhost:3000](http://localhost:3000)
+👉 [https://kirtiassignment.netlify.app/](https://kirtiassignment.netlify.app/)]
 
 ---
 
